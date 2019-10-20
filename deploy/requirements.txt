@@ -1,0 +1,8 @@
+ipython==7.7.0
+trio==0.12.1
+mtrpacket==0.2.0
+asyncio==3.4.3
+trio-asyncio==0.10.0
+aioredis==1.2.0
+asyncpg==0.18.3
+requests==2.22.0
