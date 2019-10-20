@@ -1,7 +1,6 @@
 import os
 
 
-# TODO: store these credentials in secure place if use non-locally
 PG_HOST = os.environ.get('POSTGRES_HOST')
 PG_DB = os.environ.get('POSTGRES_DB')
 PG_USER = os.environ.get('POSTGRES_USER')
