@@ -42,7 +42,7 @@ class AsyncRedisConnector:
 
     @_redis_manager
     async def write_batch(self, batch: dict):
-        '''Writes key:value pairs from batch to cache.
+        ''' Writes key:value pairs from batch to cache.
         Exceptions are not propagated but stored in results lists.
         Returns a list of results.
         '''
