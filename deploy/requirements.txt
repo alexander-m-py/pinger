@@ -1,4 +1,4 @@
-ipython==7.7.0
+ipython==7.16.3
 trio==0.12.1
 mtrpacket==0.2.0
 asyncio==3.4.3
